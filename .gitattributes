@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Fix repo main language detected as Shader Lab
+Assets/TextMesh?Pro/** linguist-generated
