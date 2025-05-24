@@ -1,0 +1,26 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/filip/OneDrive/Desktop/Projects/Unity Games/Builds/Coin Flipper/WebGL;C:/Users/filip/OneDrive/Desktop/Unity Games/Builds/Coin Flipping/v0.0.1_WebGL;C:/Users/filip/OneDrive/Desktop/Unity Games/Builds/Coin Flipping/v0.01_WebGL;C:/Users/filip/OneDrive/Desktop/Unity Games/Builds/Coin Flipping/v0.0.1_WEBGL;C:/Users/filip/OneDrive/Desktop/Unity Games/Builds/Coin Flipping/v0.0.0_WebGL;;;;;\"}"
+            }
+        ]
+    }
+}
