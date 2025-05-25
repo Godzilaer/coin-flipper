@@ -1,2 +1,2 @@
 # coin-flipper
-Watch how the physics-based coin behaves with a graph showing heads/tails % occurence.
+A 3D physics-based coin flipping sandbox. Includes a graph to see how probability approaches expected value over time.
